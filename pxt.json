@@ -1,0 +1,15 @@
+{
+    "name": "pxt-solar",
+    "version": "1.0.0",
+    "description": "Modules and lessons for the Solar Kit.",
+    "license": "MIT",
+    "dependencies": {
+
+    },
+    "files": [],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}
